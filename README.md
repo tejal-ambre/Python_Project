@@ -14,8 +14,8 @@ Benefits:
 3. Scalability: Handles data for small teams or large organizations seamlessly.
 
 Technologies:
-Programming Language: Python for logic implementation.
-Database: SQLite or MySQL for storing employee records and attendance logs.
-Libraries: Flask/Django for web-based systems or Tkinter for desktop GUIs.
-APIs: Optional integration with biometric or RFID devices for automated input.
-This system enhances operational transparency and ensures compliance with organizational policies, making it a valuable asset for HR and administrative teams.
+Programming Language: Python for logic implementation.<br>
+Database: SQLite or MySQL for storing employee records and attendance logs.<br>
+Libraries: Flask/Django for web-based systems or Tkinter for desktop GUIs.<br>
+APIs: Optional integration with biometric or RFID devices for automated input.<br>
+This system enhances operational transparency and ensures compliance with organizational policies, making it a valuable asset for HR and administrative teams.<br>
