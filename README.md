@@ -2,17 +2,17 @@
 An Employee Time and Attendance Management System is a software application designed to automate and streamline the process of tracking employees' working hours, breaks, leaves, and attendance. Developed in Python, this system leverages a combination of back-end logic and user interfaces to ensure efficient timekeeping and accurate attendance management.
 
 Key Features:
-Employee Registration: Allows administrators to register employees with unique IDs, names, and roles.
-Time Tracking: Records clock-in and clock-out times using timestamps, ensuring accurate work hour calculations.
-Attendance Management: Monitors daily attendance, marking employees as present, absent, or late.
-Leave Management: Supports leave requests and tracks approved or pending leaves.
-Shift Management: Assigns employees to different shifts and tracks compliance.
-Reports Generation: Provides summarized attendance and work hour reports for employees and administrators.
-User Roles: Includes admin and employee roles with tailored access permissions.
+1. Employee Registration: Allows administrators to register employees with unique IDs, names, and roles.<br>
+2. Time Tracking: Records clock-in and clock-out times using timestamps, ensuring accurate work hour calculations.<br>
+3. Attendance Management: Monitors daily attendance, marking employees as present, absent, or late.
+4. Leave Management: Supports leave requests and tracks approved or pending leaves.
+5.Shift Management: Assigns employees to different shifts and tracks compliance.
+
 Benefits:
-Efficiency: Automates manual processes, saving time and reducing errors.
-Accuracy: Ensures reliable data for payroll and compliance purposes.
-Scalability: Handles data for small teams or large organizations seamlessly.
+1. Efficiency: Automates manual processes, saving time and reducing errors.
+2. Accuracy: Ensures reliable data for payroll and compliance purposes.
+3. Scalability: Handles data for small teams or large organizations seamlessly.
+
 Technologies:
 Programming Language: Python for logic implementation.
 Database: SQLite or MySQL for storing employee records and attendance logs.
